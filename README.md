@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img width=400px src="https://github.com/Medox36/Medox36/blob/main/img/cat.png"/>
+  <img width=300px src="https://github.com/Medox36/Medox36/blob/main/img/cat.png"/>
 </div>
 
 ### Hi👋 and Welcome❤️
@@ -27,21 +27,20 @@
 
 ### 📈 **My Stats:**
 <div align="center">
-  <img height=195px src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg">
+  <img height=165px src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg">
   &nbsp; &nbsp;
-  <img height=130% src="https://github-readme-streak-stats.herokuapp.com?user=Medox36&theme=onedark_duo&fire=05E0D8">
+  <img height=165px src="https://github-readme-streak-stats.herokuapp.com?user=Medox36&theme=onedark_duo&fire=05E0D8">
   &nbsp; &nbsp;
-  <img height=195px src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81718.jpg">
+  <img height=165px src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81718.jpg">
 </div>
 &nbsp; &nbsp;
-<div>
-  &nbsp; &nbsp; &nbsp;
-  <img height=158px src="https://github-readme-stats.vercel.app/api?username=Medox36&hide=issues&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&custom_title=Medox36's%20GitHub%20Stats">
+<div align="center">
+  <img height=135px src="https://github-readme-stats.vercel.app/api?username=Medox36&hide=issues&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&custom_title=Medox36's%20GitHub%20Stats">
   &nbsp; &nbsp; &nbsp; &nbsp;
-  <img height=158px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medox36&layout=compact&theme=onedark&hide=Batchfile&card_width=350">
+  <img height=135px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medox36&layout=compact&theme=onedark&hide=Batchfile&card_width=350">
 </div>
 <div align="center">
-  <img src="https://github.com/Medox36/Medox36/blob/output/github-contribution-grid-snake.svg">
+  <img width840px src="https://github.com/Medox36/Medox36/blob/output/github-contribution-grid-snake.svg">
 </div>  
 
 ---
