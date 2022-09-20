@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://github.com/Medox36/Medox36/img/cat.png"/>
+  <img width=400px src="https://github.com/Medox36/Medox36/blob/main/img/cat.png"/>
 </div>
 
-### Hi 👋
+### Hi👋 and Welcome❤️
 
 ---
 
@@ -40,7 +40,9 @@
   &nbsp; &nbsp; &nbsp; &nbsp;
   <img height=158px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medox36&layout=compact&theme=onedark&hide=Batchfile&card_width=350">
 </div>
-![Snake animation](https://github.com/Medox36/Medox36/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/Medox36/Medox36/blob/output/github-contribution-grid-snake.svg">
+</div>  
 
 ---
 
