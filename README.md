@@ -20,7 +20,7 @@
 -->
 <br>
 <div align="center">
-  <img src="https://img.freepik.com/free-vector/admin-data-center-room-with-server-hardware_107791-8201.jpg?w=2000&t=st=1663701046~exp=1663701646~hmac=f7a4de1277231975f12c80c867917f931120a374147b0687a9004c6a02296de8">
+  <img src="https://github.com/Medox36/Medox36/blob/main/img/room.jpeg">
 </div>
 
 ---
