@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/Medox36/StadtLandButz">StadtLandButz</a> & <a href="https://github.com/Medox36/NETJLO">NETJLO</a>
 - 🌱 I’m currently learning C++ & NodeJS
-- 📫 How to reach me: *working on it⚙️*
+- 📫 How to reach me: <a href="mailto:lorenzo@giuntini.ch">via private E-Mail</a> or <a href="mailto:giuntinil@bzz.ch">via student E-Mail</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: China censored the word for "censorship." *I know fun, isn't it? And very factic🤓*
 <!-- 
