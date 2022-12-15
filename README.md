@@ -65,5 +65,5 @@
 </div>
 &nbsp;
 <div align="center">
-  <img width=50% src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif">
+  <img width=50% src="https://github.com/Medox36/Medox36/blob/main/img/codingcat.gif">
 </div>
