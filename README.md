@@ -19,19 +19,12 @@
 - 💬 Ask me about ...
 -->
 <br>
-<div align="center">
-  <img src="https://github.com/Medox36/Medox36/blob/main/img/room.jpeg">
-</div>
 
 ---
 
 ### 📈 **My Stats:**
 <div align="center">
-  <img height=165px src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81717.jpg">
-  &nbsp; &nbsp;
   <img height=165px src="https://github-readme-streak-stats.herokuapp.com?user=Medox36&theme=onedark_duo&fire=05E0D8">
-  &nbsp; &nbsp;
-  <img height=165px src="https://img.freepik.com/free-vector/cartoon-style-nerd-character-design_52683-81718.jpg">
 </div>
 &nbsp; &nbsp;
 <div align="center">
