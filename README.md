@@ -8,17 +8,16 @@
 
 ### 🪂 **Something about me:** 
 
-- 🔭 I’m currently working on <a href="https://github.com/Medox36/StadtLandButz">StadtLandButz</a> & <a href="https://github.com/Medox36/NETJLO">NETJLO</a>
-- 🌱 I’m currently learning C++ & NodeJS
+- 🔭 I’m currently working on <a href="https://github.com/Medox36/NETJLO">NETJLO</a>, <a href="https://github.com/Medox36/jettings">jettings</a> & <a href="https://github.com/Medox36/jUp">jUp</a>
+- 🌱 I’m currently learning C++ & Angular
 - 📫 How to reach me: **pls don't**
+<!--
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: China censored the word for "censorship." *I know fun, isn't it? And very factic🤓*
-<!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-<br>
 
 ---
 
