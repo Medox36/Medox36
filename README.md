@@ -33,7 +33,7 @@
   <img height=135px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medox36&layout=compact&theme=onedark&hide=Batchfile&card_width=350&exclude_repo=M150-EBusiness-NDLM">
 </div>
 <div align="center">
-  <img width840px src="https://github.com/Medox36/Medox36/blob/output/github-contribution-grid-snake.svg">
+  <img width840px src="https://github.com/Medox36/Medox36/blob/output/github-contribution-grid-snake-dark.svg">
 </div>  
 
 ---
